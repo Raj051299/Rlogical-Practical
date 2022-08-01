@@ -1,0 +1,5 @@
+1. Download Zip file
+2. Go to spiders folder
+3. Open cmd from spiders folders
+4. Run command --> scrapy crawl demo1
+5. After scraping All_data.xlsx file will generate in spiders folder.
